@@ -13,3 +13,5 @@ The projects are:
 7. Demographics - K means clustering with Scikit-Learn using real university demographics data
 8. Natural Language Processing - NLP with Scikit-Learn using the Yelp data set from Kaggle
 9. Loans (revisited) - neural network regression with Keras on the Lending Club loan data set
+
+All the code in these notebooks was written by me, unless explicitly noted otherwise. I am not including the CSV files because they have all either been created by Pierian Training or were modified by them for pedagogical reasons.
